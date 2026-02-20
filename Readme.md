@@ -121,7 +121,7 @@ This project supports **two inference methods**, allowing flexibility for both e
 
 Example:
 ```python
-predict("images/image_0.jpg")
+predict(r"D:\Aimonk_Attribute_Classification\images\image_0.jpg")
 ```
 Output:
 ```python
