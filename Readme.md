@@ -104,9 +104,8 @@ During training:
 - Title: `Aimonk_multilabel_problem`
 
 This plot helps visualize convergence and training stability.
-
 <!-- 📸 **Screenshot placeholder**: -->
-<p>📸 Screenshot placeholder</p>
+<p>📸 Screenshot</p>
 <img src="image-2.png" alt="Loss Curve" width="50%">
 
 
@@ -151,7 +150,7 @@ Attributes present: ['Attr1', 'Attr4']
 ```python
 streamlit run app.py
 ```
-- 📸 Screenshot placeholders:
+- 📸 Screenshots:
 ![alt text](image.png)
 ![alt text](image-1.png)
 
