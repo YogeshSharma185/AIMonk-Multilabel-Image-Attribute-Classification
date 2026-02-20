@@ -1,0 +1,7 @@
+torch
+matplotlib
+ipykernel
+torchvision
+pillow 
+tqdm
+streamlit
