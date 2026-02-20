@@ -13,10 +13,11 @@ This is a **multilabel image classification problem** where each image can have 
 The dataset consists of:
 - An `images/` directory containing image files
 - A `labels.txt` file with the following format:
-
+```text
 image_0.jpg 1 NA 0 1
 image_1.jpg NA 0 0 0
 image_2.jpg 1 1 0 0
+```
 ...
 
 
@@ -126,35 +127,37 @@ Image: image_0.jpg
 Attributes present: ['Attr1', 'Attr4']
 ```
 
-🌐 Streamlit Web Application
-A Streamlit-based UI is also provided for easy inference.
+---
 
-Features:
-Upload an image
 
-Adjustable prediction threshold
+## 🌐 Streamlit Web Application
+- **A Streamlit-based UI is also provided for easy inference.**
 
-Fixed image display size
+- Features:
+- Upload an image
 
-Attribute predictions with confidence scores
+- Adjustable prediction threshold
 
-Clean, professional layout
+- Fixed image display size
 
-Run the app:
+- Attribute predictions with confidence scores
+
+- Clean, professional layout
+
+- Run the app:
+```python
 streamlit run app.py
-📸 Screenshot placeholders:
+```
+- 📸 Screenshot placeholders:
 ![alt text](image.png)
 ![alt text](image-1.png)
-🧼 Preprocessing & Augmentations Used
-Implemented:
-Image resizing to 224×224
-
-ImageNet normalization
-
-Random horizontal flip (training only)
 
 
-📁 Project Structure
+---
+
+
+## 📁 Project Structure
+```text
 project/
 │
 ├── images/                # Input images
@@ -165,39 +168,52 @@ project/
 ├── logo.jpg               # Project logo
 ├── requirements.txt
 └── README.md
-📦 Requirements
-Key dependencies:
+```
 
-torch
+---
 
-torchvision
 
-matplotlib
+## 📦 Requirements
+- Key dependencies:
 
-pillow
+- torch
 
-tqdm
+- torchvision
 
-streamlit
+- matplotlib
 
-(Full list available in requirements.txt)
+- pillow
 
-🏁 Conclusion
-This project successfully implements a robust multilabel image attribute classification system that:
+- tqdm
 
-Uses transfer learning
+- streamlit
 
-Handles missing labels properly
+- (Full list available in requirements.txt)
 
-Addresses dataset imbalance
 
-Provides both notebook-based and UI-based inference
+---
 
-Is modular, clean, and production-ready
 
-👤 Author
-Yogesh Sharma
-Machine Learning / Deep Learning Practitioner
+## 🏁 Conclusion
+- **This project successfully implements a robust multilabel image attribute classification system that:**
+
+- Uses transfer learning
+
+- Handles missing labels properly
+
+- Addresses dataset imbalance
+
+- Provides both notebook-based and UI-based inference
+
+- Is modular, clean, and production-ready
+
+
+---
+
+
+## 👤 Author
+- **Yogesh Sharma**
+- Machine Learning / Deep Learning Practitioner
 
 
 ---
