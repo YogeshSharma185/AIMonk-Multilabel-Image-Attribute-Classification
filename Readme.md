@@ -214,5 +214,5 @@ project/
 ## 🧑‍💻 Author
 
 **Yogesh Sharma**  
-Machine Learning / Deep Learning Engineer  
+<sub>Machine Learning / Deep Learning Engineer </sub> 
 ---
