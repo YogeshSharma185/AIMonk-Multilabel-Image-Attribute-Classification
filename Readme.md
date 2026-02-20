@@ -119,10 +119,13 @@ This plot helps visualize convergence and training stability.
 Example:
 ```python
 predict("images/image_0.jpg")
+```
 Output:
-
+```python
 Image: image_0.jpg
 Attributes present: ['Attr1', 'Attr4']
+```
+
 🌐 Streamlit Web Application
 A Streamlit-based UI is also provided for easy inference.
 
