@@ -104,8 +104,8 @@ During training:
 - Title: `Aimonk_multilabel_problem`
 
 This plot helps visualize convergence and training stability.
-<!-- 📸 **Screenshot placeholder**: -->
-<p>📸 Screenshot</p>
+<!-- 📸 **Screenshot placeholder**:
+<p>📸 Screenshot</p> -->
 <img src="image-2.png" alt="Loss Curve" width="50%">
 
 
