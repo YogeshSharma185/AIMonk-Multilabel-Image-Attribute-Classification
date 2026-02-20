@@ -1,4 +1,4 @@
-# Aimonk Multilabel Image Attribute Classification
+# AIMonk Multilabel Image Attribute Classification
 
 ## 📌 Problem Statement
 
@@ -101,7 +101,7 @@ During training:
 
 - X-axis: `iteration_number`
 - Y-axis: `training_loss`
-- Title: `Aimonk_multilabel_problem`
+- Title: `AIMonk_multilabel_problem`
 
 This plot helps visualize convergence and training stability.
 <!-- 📸 **Screenshot placeholder**:
