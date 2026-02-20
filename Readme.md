@@ -105,9 +105,9 @@ During training:
 
 This plot helps visualize convergence and training stability.
 
-📸 **Screenshot placeholder**:
+<!-- 📸 **Screenshot placeholder**: -->
+<p>📸 Screenshot placeholder</p>
 <img src="image-2.png" alt="Loss Curve" width="50%">
-![alt text](image-2.png)
 
 
 ---
