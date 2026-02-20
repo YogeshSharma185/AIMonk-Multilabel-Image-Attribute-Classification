@@ -133,7 +133,7 @@ Attributes present: ['Attr1', 'Attr4']
 
 
 ## 2.Streamlit Web Application
-### A Streamlit-based UI is also provided for easy inference.###
+### A Streamlit-based UI is also provided for easy inference.
 
 - Features:
 - Upload an image
@@ -176,7 +176,6 @@ project/
 
 
 ## 📦 Requirements
-### Key dependencies:###
 
 - torch
 
@@ -197,7 +196,7 @@ project/
 
 
 ## 🏁 Conclusion
-### This project successfully implements a robust multilabel image attribute classification system that:###
+### This project successfully implements a robust multilabel image attribute classification system that:
 
 - Uses transfer learning
 
@@ -212,10 +211,8 @@ project/
 
 ---
 
+## 🧑‍💻 Author
 
-## 👤 Author
-- **Yogesh Sharma**
-Machine Learning / Deep Learning Practitioner
-
-
+**Yogesh Sharma**  
+Machine Learning / Deep Learning Engineer  
 ---
