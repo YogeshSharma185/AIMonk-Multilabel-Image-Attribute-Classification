@@ -113,7 +113,9 @@ This plot helps visualize convergence and training stability.
 
 ## 🔍 Inference
 
-### Notebook Inference
+This project supports **two inference methods**, allowing flexibility for both experimentation and deployment:
+
+### 1.Notebook Inference
 - Input: Image path
 - Output: List of predicted attributes
 
@@ -130,8 +132,8 @@ Attributes present: ['Attr1', 'Attr4']
 ---
 
 
-## 🌐 Streamlit Web Application
-- **A Streamlit-based UI is also provided for easy inference.**
+## 2.Streamlit Web Application
+### A Streamlit-based UI is also provided for easy inference.###
 
 - Features:
 - Upload an image
@@ -174,7 +176,7 @@ project/
 
 
 ## 📦 Requirements
-- Key dependencies:
+### Key dependencies:###
 
 - torch
 
@@ -195,7 +197,7 @@ project/
 
 
 ## 🏁 Conclusion
-- **This project successfully implements a robust multilabel image attribute classification system that:**
+### This project successfully implements a robust multilabel image attribute classification system that:###
 
 - Uses transfer learning
 
@@ -213,7 +215,7 @@ project/
 
 ## 👤 Author
 - **Yogesh Sharma**
-- Machine Learning / Deep Learning Practitioner
+Machine Learning / Deep Learning Practitioner
 
 
 ---
